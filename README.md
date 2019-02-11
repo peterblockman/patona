@@ -1,2 +1,2 @@
 # patona
-Dead simple landing page with only HTML and CSS.
+Dead simple landing page with nodejs
